@@ -1,0 +1,23 @@
+//
+//
+//
+//		    Sorenson Shell
+//			SShell
+//		    lsorenso@cs.purdue.edu
+//		    Lars Sorenson
+//
+//
+//
+//
+//			Features
+-----------------------------------------------
+	Wildcarding
+	Subdirectory Wildcarding
+	File input, output, and error redirection
+	Environment Variable expansion, setting, and removing
+	Subshells
+	Tilde Expansion
+	Line editor and command history
+	Escape character parsing
+	CD'ing
+	zombie process clean up

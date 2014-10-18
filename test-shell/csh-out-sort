@@ -1,0 +1,4 @@
+INFOPATH=/usr/share/info:/usr/share/gcc-data/x86_64-pc-linux-gnu/4.5.4/info:/usr/share/binutils-data/x86_64-pc-linux-gnu/2.22/info:/usr/share/info/emacs-24
+MANPATH=/etc/java-config-2/current-system-vm/man:/usr/local/man:/usr/share/man:/usr/share/gcc-data/x86_64-pc-linux-gnu/4.5.4/man:/usr/share/binutils-data/x86_64-pc-linux-gnu/2.22/man:/etc/java-config/system-vm/man/
+PATH=/bin
+QT_PLUGIN_PATH=/usr/lib64/kde4/plugins
